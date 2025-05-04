@@ -1,0 +1,26 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# PDF outputs (optional, comment if you want to track)
+*.pdf
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Custom LaTeX build directories
+build/
